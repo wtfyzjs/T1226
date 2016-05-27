@@ -1,6 +1,5 @@
 1111111
 2222222
 dev update
-master del
 dev update 2
-master update 01
+master del
